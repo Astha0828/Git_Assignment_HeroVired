@@ -23,3 +23,19 @@ if __name__ == "__main__":
     
     radius = 5
     print(f"The area of the circle with radius {radius} = {calculator.calculate_circle_area(radius)}")
+if __name__ == "__main__":
+    calculator = GeometryCalculator()
+    
+    # Circle code (keep commented for now)
+
+    length = 10
+    width = 6
+    print(f"The area of rectangle with length {length} and width {width} = {calculator.calculate_rectangle_area(length, width)}")
+if __name__ == "__main__":
+    calculator = GeometryCalculator()
+
+    # Circle code (already done in its branch)
+
+    length = 10
+    width = 6
+    print(f"The area of rectangle with length {length} and width {width} = {calculator.calculate_rectangle_area(length, width)}")
