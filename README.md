@@ -1,4 +1,5 @@
 # Git_Assignment_HeroVired
+
 Open your code editor
 First, open any code editor you like, such as VS Code, PyCharm, or even Notepad++.
 
@@ -20,10 +21,8 @@ step 4 create main branch
 step 5 make your first commit
 step 6 create dev branch
 step 7 create a new feature branch for adding square
-step 8 run test, fix bug 
-step 9 finish sqrt root feature 
+step 8 run test, fix bug
+step 9 finish sqrt root feature
 step 10 merge the branch into dev
 step 11 merge dev into main
 step 12 create release tag and release
-
-
